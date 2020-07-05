@@ -22,6 +22,7 @@
 <a name="link1">[1]</a>Davis, M. (2007). Forgetting: Once again, it’s all about representations. In H. L. Roediger III, Y. Dudai & S. M. Fitzpatrick (Eds.), Science of Memory: Concepts (pp. 317-319). Oxford: Oxford University Press.
 
 <a name="link2">[2]</a>Dudai, Y. (2004). Memory fromA to Z: Oxford Univeristy Press.
+
 <a name="link3">[3]</a> Rosenfield , I. (1992). Η Εφεύρεση της Μνήμης, Μια νέα άποψη για τη λειτουργία του εγκεφάλου.(Ποτάγας, Κ.,   Μετάφρ.) Αθήνα: Καστανιώτη
 
 <a name="link4">[4]</a>  Kandel,Eric.(1992) Αναζητώντας τη μνήμη. Η ανάδυση μιας νέας επιστήμης του νου, μετάφραση Αζαρίας Καραμανλίδης, Πανεπιστημιακές Εκδόσεις Κρήτης, 2008, σσ. 295, 316.
