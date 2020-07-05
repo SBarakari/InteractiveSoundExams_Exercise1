@@ -30,6 +30,8 @@
 
 <a name="link6">[6]</a>Παπαθεοδωρόπουλος, Κ. (2015). Έννοιες στην επιστήμη της μνήμης. Αθήνα:Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. κεφ 23. 
 
+<a name="link7">[7]</a>Radstone, S., & Schwarz, B. (2011). Memory: Histories, theories, debates. New York: Fordham Univ. Press. 
+
 
 
 
